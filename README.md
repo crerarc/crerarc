@@ -1,5 +1,3 @@
-# hello_world
-
 ## A brief introduction
 Formally educated as an engineer, with experience in research, defence (naval platforms), and energy (oil and gas, nuclear, and renewables) sectors. Currently, developing and applying data science skills.
 
